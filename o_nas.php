@@ -43,7 +43,7 @@
 
     <nav>
         <ul>
-            <li><a href="index.html">Domov</a></li>
+            <li><a href="index.php">Domov</a></li>
         </ul>
     </nav>
 
